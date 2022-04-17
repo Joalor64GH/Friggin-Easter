@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="April Seventeenth, Two Thousand Twenty Two" file="EASTER" packageName="com.shadowmario.psychengine" package="com.shadowmario.psychengine" main="Main" version="0.5.2h" company="ShadowMario" />
+	<app title="April Seventeenth, Two Thousand Twenty Two" file="EASTER" packageName="com.easter.april" package="com.easter.april" main="Main" version="0.5.2h" company="ShadowMario" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
