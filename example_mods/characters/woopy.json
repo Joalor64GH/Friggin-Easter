@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-4,
 				-107
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Wooper Note Down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Wooper Note Down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-33,
 				27
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Wooper Note Up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Wooper Note Up"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "Wooper_Idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Wooper_Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-54,
 				-30
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Wooper Note Left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Wooper Note Left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				42,
 				-32
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Wooper Note Right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Wooper Note Right"
 		}
 	],
 	"no_antialiasing": false,
@@ -65,9 +65,9 @@
 	"healthicon": "woopy",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		255,
+		235,
+		255
 	],
 	"camera_position": [
 		100,
